@@ -2,6 +2,6 @@ The website is about my personal portfolio showcasing my accomplishments and ski
 
 
 - Github Repositories: https://github.com/Kimmmmyxx/kimmmyxx.git
-- Webhost:  https://kimmmmyxx.github.io/kimmmyxx/
+- https://kimmmmyxx.github.io/kimmmyxx/
 
 
